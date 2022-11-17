@@ -29,4 +29,4 @@
 ##  示例图片：
 ![](https://dsm.yeely.top:3/images/2022/11/17/202211171750070.png)
 # 不懂的可以去我博客看教程哦！
-![Yeely博客](https://yeely.top)
+[Yeely博客](https://yeely.top)
