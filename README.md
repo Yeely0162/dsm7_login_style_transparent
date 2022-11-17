@@ -27,4 +27,4 @@
 源作者：@onlypeng
 作者地址：https://github.com/onlypeng/dsm7_login_translucent
 ##  示例图片：
-![](https://dsm.yeely.top:3/images/2022/11/17/202211171748930.png)
+![](https://dsm.yeely.top:3/images/2022/11/17/202211171750070.png)
