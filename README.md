@@ -34,7 +34,7 @@
 作者地址：https://github.com/onlypeng/dsm7_login_translucent
 
 ##  示例图片：
-![](https://dsm.yeely.top:3/images/2022/11/17/202211171750070.png)
+![](https://yeels.cn/images/2022/11/17/202211171750070.png)
 # 不懂的可以去我博客看教程哦！
 [Yeely博客](https://yeely.top)
 ## 更新
