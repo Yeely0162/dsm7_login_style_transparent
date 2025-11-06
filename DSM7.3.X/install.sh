@@ -278,7 +278,7 @@ do
     if [[ -n $par ]]; then
         input="$par"
     else
-        read -r -p "1：安装磨砂补丁 2：安装黑色补丁 3： 毛玻璃效果 4：还原补丁 q：退出脚本 [1/2/3/q] " input
+        read -r -p "1：安装磨砂补丁 2：安装黑色补丁 3：毛玻璃效果 4：还原补丁 q：退出脚本 [1/2/3/q] " input
     fi
     case $input in
         1)  
