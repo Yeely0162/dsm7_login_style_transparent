@@ -38,9 +38,9 @@ coming soon....
 作者地址：https://github.com/onlypeng/dsm7_login_translucent
 
 ##  示例图片：
-![](https://yeels.cn/images/2022/11/17/202211171750070.png)
+![](https://yeel.cn/images/2022/11/17/202211171750070.png)
 # 不懂的可以去我博客看教程哦！
-[Yeely博客](https://yeelys.cn)
+[Yeely博客](https://yeely.cn)
 ## 更新
 * 1.更新Safari上没有毛玻璃效果问题，以及部分字体颜色不对问题
-![](https://dsm.yeely.top:3/images/2022/11/19/202211191202989.jpg)
+![](https://yeel.cn/images/2022/11/19/202211191202989.jpg)
